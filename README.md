@@ -91,11 +91,11 @@ Ready for your logo and palette
 ### Interface
 
 <p align="center">
-  <img src="screenshots/ChatGPT%20Image%20Sep%2023,%202026,%2007_47_36%20PM.png" width="240" alt="Screen 01"/>
+  <img src="https://raw.githubusercontent.com/UmarAnayat/Netrix_app/main/screenshots/ChatGPT%20Image%20Sep%2023,%202026,%2007_47_36%20PM.png" width="240" alt="Screen 01"/>
   &nbsp;&nbsp;
-  <img src="screenshots/ChatGPT%20Image%20Sep%2023,%202026,%2007_50_39%20PM.png" width="240" alt="Screen 02"/>
+  <img src="https://raw.githubusercontent.com/UmarAnayat/Netrix_app/main/screenshots/ChatGPT%20Image%20Sep%2023,%202026,%2007_50_39%20PM.png" width="240" alt="Screen 02"/>
   &nbsp;&nbsp;
-  <img src="screenshots/ChatGPT%20Image%20Sep%202026,%2007_55_36%20PM.png" width="240" alt="Screen 03"/>
+  <img src="https://raw.githubusercontent.com/UmarAnayat/Netrix_app/main/screenshots/ChatGPT%20Image%20Sep%2023,%202026,%2007_55_36%20PM.png" width="240" alt="Screen 03"/>
 </p>
 
 <p align="center">
